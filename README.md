@@ -17,16 +17,16 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  NAME        ADVait AWASTHI                                │
+│  NAME        ADVait AWASTHI                                 │
 │  ROLE        CYBERSECURITY STUDENT / AI BUILDER             │
 │  STATUS      ● BUILDING                                     │
 │                                                             │
 │  DOMAIN      CYBERSECURITY                                  │
 │              ARTIFICIAL INTELLIGENCE                        │
-│              INTELLIGENT SYSTEMS                             │
+│              INTELLIGENT SYSTEMS                            │
 │                                                             │
 │  CURRENTLY   CrimeLens AI                                   │
-│              Robin                                         │
+│              Robin                                          │
 │              ThreatSight                                    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
