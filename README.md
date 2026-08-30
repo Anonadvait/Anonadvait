@@ -139,10 +139,8 @@ INTELLIGENT SYSTEMS
 ## `// CONTRIBUTION MATRIX`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anonadvait/Anonadvait/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://github.com/Anonadvait/Anonadvait/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
-
----
 
 ## `// PHILOSOPHY`
 
