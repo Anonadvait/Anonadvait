@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey, I'm Advait.
 
-<!--
-**Anonadvait/Anonadvait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student • AI Builder • Researcher
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in Cybersecurity,
+building security tools, AI systems, and weird experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently Building
+
+- CrimeLens AI — AI-powered investigative intelligence
+- Robin — Offline-first AI research archivist
+- ThreatSight — Phishing detection
+
+---
+
+## Tech Stack
+
+Python • C++ • Java • JavaScript • Next.js
+Linux • Git • Docker • GitHub
+
+---
+
+## Interests
+
+Cybersecurity · AI Agents · Digital Forensics · Smart Policing
+
+---
+
+## Projects
+
+### CrimeLens AI
+AI-powered investigative intelligence platform.
+
+### ThreatSight
+Phishing detection and cybersecurity analysis.
+
+### Robin
+Offline-first voice research archivist.
+
+---
+
+## Connect
+
+[Portfolio](https://github.com/Anonadvait/advait-portfolio)
