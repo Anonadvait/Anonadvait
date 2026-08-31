@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://github.com/Anonadvait/advait-portfolio)
 [![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Anonadvait)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/advait-awasthi-444849381/?isSelfProfile=true)
 
 ---
 
@@ -17,9 +17,9 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  NAME        ADVait AWASTHI                                 │
+│  NAME        ADVAIT AWASTHI                                 │
 │  ROLE        CYBERSECURITY STUDENT / AI BUILDER             │
-│  STATUS      ● BUILDING                                     │
+│                                                             │
 │                                                             │
 │  DOMAIN      CYBERSECURITY                                  │
 │              ARTIFICIAL INTELLIGENCE                        │
@@ -44,7 +44,7 @@ A security-focused intelligence system designed to assist cybercrime investigati
 
 `AI` `CYBERSECURITY` `DIGITAL FORENSICS` `SMART POLICING`
 
-[**VIEW PROJECT →**](https://github.com/Anonadvait)
+[**VIEW PROJECT →**](https://github.com/Anonadvait/crimelens-ai)
 
 ---
 
@@ -56,7 +56,7 @@ A local-first voice system designed to capture, organize, understand, and retrie
 
 `PYTHON` `LOCAL AI` `VOICE` `RESEARCH`
 
-[**VIEW PROJECT →**](https://github.com/Anonadvait)
+[**VIEW PROJECT →**](https://github.com/Anonadvait/Robin)
 
 ---
 
